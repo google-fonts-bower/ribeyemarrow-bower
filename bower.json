@@ -1,0 +1,17 @@
+{
+    "name": "ribeyemarrow-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Astigmatic"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/ribeyemarrow-bower.git"
+    },
+    "description": "Ribeye Marrow font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
